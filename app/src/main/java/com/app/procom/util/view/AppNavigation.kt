@@ -10,9 +10,9 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.navigation
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
-import navigation.HomeDirections
-import navigation.MovieDetailDirections.MOVIE_ID
-import navigation.Screen
+import com.app.procom.navigation.HomeDirections
+import com.app.procom.navigation.MovieDetailDirections.MOVIE_ID
+import com.app.procom.navigation.Screen
 import com.app.procom.ui.home.MoviesViewModel
 import com.app.procom.ui.home.details.MovieDetailsScreen
 import com.app.procom.ui.home.listing.MovieListingScreen

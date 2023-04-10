@@ -1,6 +1,6 @@
-package navigation
+package com.app.procom.navigation
 
-import navigation.HomeDirections.DEFAULT
+import com.app.procom.navigation.HomeDirections.DEFAULT
 import kotlinx.coroutines.flow.MutableStateFlow
 
 class NavigationManager {

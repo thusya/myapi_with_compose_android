@@ -1,7 +1,7 @@
 package com.app.procom.di
 
 import com.app.procom.mappers.MovieDataMapper
-import navigation.NavigationManager
+import com.app.procom.navigation.NavigationManager
 import com.app.procom.repository.movies.MoviesRepository
 import com.app.procom.repository.movies.MoviesRepositoryDependencies
 import com.app.procom.repository.movies.MoviesRepositoryImpl

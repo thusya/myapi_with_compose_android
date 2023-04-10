@@ -13,8 +13,8 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.navigation.compose.rememberNavController
-import navigation.HomeDirections
-import navigation.NavigationManager
+import com.app.procom.navigation.HomeDirections
+import com.app.procom.navigation.NavigationManager
 import com.app.procom.ui.themes.AppTheme
 import com.app.procom.ui.themes.appColors
 import com.app.procom.util.view.*

@@ -1,4 +1,4 @@
-package navigation
+package com.app.procom.navigation
 
 import androidx.navigation.NamedNavArgument
 

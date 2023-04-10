@@ -2,8 +2,8 @@ package com.app.procom.ui.home
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import navigation.MovieDetailDirections
-import navigation.NavigationManager
+import com.app.procom.navigation.MovieDetailDirections
+import com.app.procom.navigation.NavigationManager
 import com.app.procom.ui.models.MovieDetails
 import com.app.procom.usecase.MoviesUseCase
 import kotlinx.coroutines.CoroutineDispatcher

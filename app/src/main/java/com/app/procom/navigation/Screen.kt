@@ -1,4 +1,4 @@
-package navigation
+package com.app.procom.navigation
 
 sealed class Screen(val route: String) {
 

@@ -4,7 +4,7 @@ package com.app.procom.ui
 
 import app.cash.turbine.test
 import com.app.procom.corountines.MainDispatcherRule
-import navigation.NavigationManager
+import com.app.procom.navigation.NavigationManager
 import com.app.procom.ui.home.MoviesUiState
 import com.app.procom.ui.home.MoviesViewModel
 import com.app.procom.ui.models.MovieDetails
