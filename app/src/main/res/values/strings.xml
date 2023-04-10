@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProcomApp</string>
+    <string name="dialog_loading_body">Loading</string>
+</resources>
